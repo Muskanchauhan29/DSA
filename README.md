@@ -13,7 +13,6 @@ Instead of organizing problems topic-wise, I focus on **problem-solving patterns
 - Each solution is written in **Java / Python**  
 - Code is clean, optimized, and well-commented  
 
----
 
 ## 📚 Patterns Covered
 
